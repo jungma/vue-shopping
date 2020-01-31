@@ -1,4 +1,4 @@
-# vuedongsan
+# vue-shopping
 
 ## Project setup
 ```
